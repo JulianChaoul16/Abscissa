@@ -5,3 +5,5 @@ Tensor compute library
 ## CURRENT UPDATES
 
 Working on the API calls to call a basic tensor and data points 
+
+Eventually going to become a math library for MOJO
